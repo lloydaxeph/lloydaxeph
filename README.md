@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lloyd Acha</h1>
-<h3 align="center">Software / Mechanical Engineer</h3>
+<h3 align="center">An AI Software & Mechanical Engineer from the Philippines</h3>
 
 - 🔭 I’m currently working on **Trax Retail** as a **Model-Ops Enginee**
 - 💻 Still currently working on my github profile but I add projects here every now and then.
