@@ -6,8 +6,9 @@
 - You can see how I implement AI/ML papers here : [AI Paper Implementations](https://github.com/lloydaxeph/ai_paper_implementations)
 
 <h3>Websites</h3>
-- LinkedIn: linkedin.com/in/lloydacha/
-- LeetCode: leetcode.com/u/lloydacha/
+
+- 💻 LinkedIn: linkedin.com/in/lloydacha
+- 💻 LeetCode: leetcode.com/u/lloydacha
 
 
 <h3 align="left">Languages and Tools:</h3>
