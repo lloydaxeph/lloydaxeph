@@ -7,8 +7,11 @@
 
 <h3>Websites</h3>
 
-- 💻 LinkedIn: linkedin.com/in/lloydacha
-- 💻 LeetCode: leetcode.com/u/lloydacha
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lloydacha)
+- 💻 [LeetCode](https://www.leetcode.com/u/lloydacha)
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
