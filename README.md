@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lloyd Acha</h1>
 <h3 align="center">An AI Software & Mechanical Engineer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Trax Retail** as a **Model-Ops Enginee**
+- 🔭 I’m currently working on **Trax Retail** as a **Model-Ops Engineer**
 - 💻 Still currently working on my github profile but I add projects here every now and then.
-- You can see how I implement AI/ML papers here : [AI Paper Implementations](https://github.com/lloydaxeph/ai_paper_implementations)
+- You can see how I implement AI papers here : [AI Paper Implementations](https://github.com/lloydaxeph/ai_paper_implementations)
 
 <h3>Websites</h3>
 
