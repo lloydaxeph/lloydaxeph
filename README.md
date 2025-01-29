@@ -6,9 +6,12 @@
 - You can see how I implement AI papers here : [AI Paper Implementations](https://github.com/lloydaxeph/ai_paper_implementations)
 
 <h3>Websites</h3>
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lloydacha)
-- 💻 [LeetCode](https://www.leetcode.com/u/lloydacha)
-- [Portfolio](https://lloydaxeph.github.io/)
+
+- 🌐 [Portfolio](https://lloydaxeph.github.io/)
+- [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/lloydacha)
+- 💻 [LeetCode](https://www.leetcode.com/u/lloydacha)   
+
+
 
 
 
