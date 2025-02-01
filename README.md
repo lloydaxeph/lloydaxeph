@@ -9,7 +9,7 @@
 
 - 🌐 [Portfolio](https://lloydaxeph.github.io/)
 - [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/lloydacha)
-- 💻 [LeetCode](https://www.leetcode.com/u/lloydacha)   
+- 💻 [LeetCode](https://www.leetcode.com/u/lloydaxeph)   
 
 
 
